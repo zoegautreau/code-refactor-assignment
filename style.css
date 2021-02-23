@@ -51,6 +51,8 @@ p {
 }
 
 .hero {
+    display: flex;
+    flex-wrap: wrap;
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -70,12 +72,16 @@ p {
 }
 
 .content {
+    display: flex;
+    flex-wrap: wrap;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 .benefits {
+    display: flex;
+    flex-wrap: wrap;
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -189,6 +195,8 @@ p {
 }
 
 .footer {
+    display: flex;
+    flex-wrap: wrap;
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
