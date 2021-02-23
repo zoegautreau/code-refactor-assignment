@@ -5,5 +5,6 @@
     <li>Improved responsiveness
     <li>Functioning links
   </ol>
+<h2>Screeshot:<h2>
 <img src="screenshot-code-refactor.png">
   
