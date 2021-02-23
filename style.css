@@ -9,6 +9,8 @@ body {
 }
 
 .header {
+    display: flex;
+    flex-wrap: wrap;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -25,6 +27,8 @@ body {
 }
 
 .header div {
+    display: flex;
+    flex-wrap: wrap;
     padding-top: 15px;
     margin-right: 20px;
     float: right;
